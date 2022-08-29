@@ -40,8 +40,7 @@ The aim of this investigation is to perform:
 20. Avg. 14 Day: Average views for 14 days
 21. Avg. 30 Day: Average view for 30 days
 22. Avg. 60 Day: Average view for 60 days
-23. Comments Avg: Average comments.
-Youtube Link: Link of the channel The CSV file used for this analysis: https://github.com/Abhiram025002/BDDA-1/blob/main/top_200_youtubers.csv
+23. Comments Avg: Average comments
 ![image](https://user-images.githubusercontent.com/93219549/187194224-d00b1e01-248b-4e3a-959d-0d1a12b1ae73.png)
 Olympic Medal data Since 1896, the Olympics have handed out more than 35,000 medals. The winner of the first two Olympiads received an olive wreath in addition to a silver medal, and the IOC retroactively awarded medals to athletes depending on their rankings in gold, silver, and bronze. Since the first Olympics, every Olympic nation that has taken home a medal has a row in this dataset.
 ![image](https://user-images.githubusercontent.com/93219549/187194655-56447aef-e661-46b1-8a1d-7e1711d52f39.png)
