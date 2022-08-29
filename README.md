@@ -1,6 +1,7 @@
 # Big-Data-and-Data-Analytics-1-Mid-Term-Project
 
 Top200Youtubers #YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is owned by Google, and is the second most visited website, after Google Search. YouTube has more than 2.5 billion monthly users who collectively watch more than one billion hours of videos each day. As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute. Youtube is very much used to influence, educate, free university (for me also) people (the users followers) in a particular way for a specific issue - which can impact the order in some ways.
+
 ![image](https://user-images.githubusercontent.com/93219549/187194084-97fb514c-4d69-4719-b044-d37bee564d3c.png)
 
 
@@ -48,7 +49,7 @@ Olympic Medal data Since 1896, the Olympics have handed out more than 35,000 med
 
 ![image](https://user-images.githubusercontent.com/93219549/187194520-7d98ccf2-1237-4986-b18a-9e3d941eadee.png)
 This dataset lists the Olympic athletes who have won the most gold medals, the fewest gold medals, and makes a comparison between the summer and winter games.
-![image](https://user-images.githubusercontent.com/93219549/187194740-be410c1f-8d6f-4201-a09b-91d88768ae67.png)
+
 
 Acknowledgements
 
